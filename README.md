@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi, I'm Katie!
 
 <!--
 **kclem2/kclem2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# I'm currently studying Digital Cultures and Media at Newcastle University! 
+## I'm originally from York, but I am loving living in Newcastle now. 
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
